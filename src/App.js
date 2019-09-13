@@ -17,7 +17,7 @@ class App extends React.Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Welcome to Kunal's Amplify App!
+            Welcome to Kunal's Amplify App! Now I just made a change hahahahahaha!
           </p>
         </header>
       </div>
